@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Opto Studios'
-description 'Opto-Studios Police Dispatch'
+author 'Opr(redesigned owner){op dispatch}'
+description 'Opr Police Dispatch'
 version '1.0.0'
 
 client_scripts {
